@@ -10,11 +10,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 </div>
-<h1>Backend</h1>
-<div>
-    <img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=JPA&logoColor=white">
-</div>
-
 
 
 <h1>My Stats</h1>
